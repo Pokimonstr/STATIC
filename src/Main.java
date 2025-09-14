@@ -7,7 +7,7 @@ public class Main {
     public static void main(String[] args) {
         Person [] people ={
                 new Person(23,"Sara"),
-                new Person(45,"Bob"),
+                new Person(45,"собкаа"),
                 new Person(55,"Kira"),
 
         };

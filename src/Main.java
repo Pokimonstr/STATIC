@@ -6,7 +6,6 @@ import java.util.Comparator;
 public class Main {
     public static void main(String[] args) {
         Person [] people ={
-                new Person(11,"Maria"),
                 new Person(23,"Sara"),
                 new Person(45,"Bob"),
                 new Person(55,"Kira"),
